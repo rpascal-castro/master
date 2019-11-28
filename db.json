@@ -1,4 +1,7 @@
-"solicitud-prestamo": [
+
+
+{
+  "solicitud-prestamo": [
   {
     "id": 1,
     "monto": 5000,
@@ -20,4 +23,5 @@
     "fecha": "28/11/2019",
     "comentario": "Este prestamo es una prueba"
   }
-]
+]  
+}
