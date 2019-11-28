@@ -1,27 +1,33 @@
 
 
 {
-  "solicitud-prestamo": [
-  {
-    "id": 1,
-    "monto": 5000,
-    "estado": "Pendiente",
-    "fecha": "28/11/2019",
-    "comentario": "Este prestamo es una prueba"
-  },
-  {
-    "id": 2,
-    "monto": 10000,
-    "estado": "Pendiente",
-    "fecha": "28/12/2019",
-    "comentario": "Este prestamo es una prueba"
-  },
-  {
-    "id": 3,
-    "monto": 500,
-    "estado": "Aprobado",
-    "fecha": "28/11/2019",
-    "comentario": "Este prestamo es una prueba"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]  
 }
