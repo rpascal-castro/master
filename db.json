@@ -25,6 +25,55 @@
     "estado": "Pendiente",
     "fecha": "28/12/2019",
     "comentario": "Este prestamo es una prueba"
+  },
+  {
+    "id": 3,
+    "monto": 5000,
+    "estado": "Pendiente",
+    "fecha": "28/11/2019",
+    "comentario": "Este prestamo es una prueba"
+  },
+  {
+    "id": 4,
+    "monto": 10000,
+    "estado": "Pendiente",
+    "fecha": "28/12/2019",
+    "comentario": "Este prestamo es una prueba"
+  },
+  {
+    "id": 5,
+    "monto": 500,
+    "estado": "Aprobado",
+    "fecha": "28/11/2019",
+    "comentario": "Este prestamo es una prueba"
+  },
+  {
+    "id": 7,
+    "monto": 500,
+    "estado": "Aprobado",
+    "fecha": "28/11/2019",
+    "comentario": "Este prestamo es una prueba"
+  },
+    {
+    "id": 8,
+    "monto": 500,
+    "estado": "Aprobado",
+    "fecha": "28/11/2019",
+    "comentario": "Este prestamo es una prueba"
+  },
+  {
+    "id": 9,
+    "monto": 500,
+    "estado": "Aprobado",
+    "fecha": "28/11/2019",
+    "comentario": "Este prestamo es una prueba"
+  },
+  {
+    "id": 10,
+    "monto": 500,
+    "estado": "Aprobado",
+    "fecha": "28/11/2019",
+    "comentario": "Este prestamo es una prueba"
   }
 ]  
 }
